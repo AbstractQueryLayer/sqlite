@@ -22,7 +22,9 @@
     "ifcastle/aql-generator": "^0.1.0",
     "ifcastle/aql-pdodriver": "^0.1.0",
     "ifcastle/aql-storage": "^0.1.0",
-    "ext-pdo": "*"
+    "ext-pdo": "*",
+    "ifcastle/aql-entity": "^0.1.0",
+    "ifcastle/aql-sqldriver": "^0.1.0"
   },
   "autoload": {
     "psr-4": {
